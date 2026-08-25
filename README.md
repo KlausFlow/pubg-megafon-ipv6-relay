@@ -4,6 +4,8 @@
 
 **English:** A local Windows IPv6/NAT64 relay for PUBG PC when MegaFon mobile internet causes an infinite grey-smoke loading screen, broken lobby UI or failed matchmaking. No VPN or VPS required.
 
+**[Скачать готовый архив v12.0.0](./PUBG_MegaFon_Russian_First_Hybrid_v12.0.0.zip)**
+
 ## Симптомы
 
 - PUBG запускается и проходит авторизацию, но зависает на экране с серым дымом;
@@ -54,7 +56,7 @@ MegaFon IPv4/CGNAT -> AWS Global Accelerator -> PUBG TCP 40002
 
 ## Установка и запуск
 
-1. Скачайте архив из раздела **Releases** и распакуйте его.
+1. Скачайте `PUBG_MegaFon_Russian_First_Hybrid_v12.0.0.zip` по ссылке выше и распакуйте его.
 2. Полностью закройте PUBG.
 3. Запустите `START_PUBG_IPv6_RELAY.cmd`.
 4. Подтвердите запуск от администратора.
