@@ -1,0 +1,10 @@
+PUBG-IPv6-Relay.pid
+PUBG-IPv6-Relay-target.txt
+PUBG-Control-Loopback-IPs.txt
+PUBG-Russian-First-v12-test.txt
+hosts-before-pubg-relay-*.txt
+*.etl
+*.pcap
+*.pcapng
+*.log
+*.zip
